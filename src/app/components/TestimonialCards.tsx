@@ -10,7 +10,7 @@ const musicSchoolTestimonials = [
     },
     {
       quote:
-        "The community and support at this school are unmatched. I've grown not just as a pianist, but also as a performer, thanks to their comprehensive approach.",
+        "The community and support at this school are unmatched.  grown not just as a pianist, but also as a performer, thanks to their comprehensive approach.",
       name: 'Samantha Lee',
       title: 'Piano Student',
     },
